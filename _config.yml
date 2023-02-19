@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Eliminating Fear for People
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -6,12 +6,10 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  I used to write on Medium and my notebooks. Decided to gather everything on a single page 
+  with highest signal to noise ratio.
 
 # Build settings
-
 theme: minima
 
 plugins:
