@@ -1,1 +1,1 @@
-Live on [kantarcise.github.io](kantarcise.github.io)!
+Live on [kantarcise.github.io](https://kantarcise.github.io/)!
